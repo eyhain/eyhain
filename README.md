@@ -12,7 +12,7 @@
 
 **🚀 Skills**
 
-   • Languages: Python, and C# 
+   • Languages: Python and C# 
 
    • Frameworks/Tools: GitHub
 
